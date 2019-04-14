@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555255757493.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A65B1D9",
+    "lastKnownWriteTime" : 1555256011,
+    "last_content_update" : 1555256011738,
+    "path" : "~/Caribbean In Numbers/arabica/content/post/2019-04-14-testing-the-markup.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "46,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

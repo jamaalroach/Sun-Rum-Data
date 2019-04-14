@@ -1,0 +1,19 @@
+baseurl = "https://example.org/"
+title = "Sun, Rum & Data"
+author = "Jamaal Roach"
+paginate = 3
+theme = "arabica"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+summaryLength = 15
+
+[params]
+    description = "The Caribbean In Numbers"
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
+    twitter = "sunrumdata"
+    facebook = "example"
+    instagram = "example"
+    email = "example"
+    googleplus = "example"

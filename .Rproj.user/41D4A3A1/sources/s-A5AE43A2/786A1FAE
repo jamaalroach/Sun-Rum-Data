@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555249795659.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "786A1FAE",
+    "lastKnownWriteTime" : 1555254715,
+    "last_content_update" : 1555254715493,
+    "path" : "~/Sun Rum Data/arabica/themes/arabica/static/assets/css/screen.css",
+    "project_path" : "themes/arabica/static/assets/css/screen.css",
+    "properties" : {
+        "cursorPosition" : "399,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

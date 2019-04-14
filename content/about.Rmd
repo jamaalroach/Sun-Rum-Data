@@ -1,0 +1,21 @@
+---
+title: "About"
+author: "Jamaal Roach"
+date: "4/14/2019"
+menu: main
+output: html_document
+---
+
+
+```{r  echo=FALSE, out.width="75%"}
+knitr::include_graphics("/img/oldmap.jpg")
+```
+
+
+Data visualisation and analysis of the islands and countries that make up the Caribbean and the broader West Indies.
+
+
+
+
+
+
